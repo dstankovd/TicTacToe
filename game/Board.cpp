@@ -3,7 +3,6 @@
 //  TicTacToeCPP
 //
 //  Created by Dimitar Dimov on 9/6/16.
-//  Copyright © 2016 Z Point. All rights reserved.
 //
 
 #include "Board.hpp"
